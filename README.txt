@@ -19,7 +19,7 @@ För att köra programet, följ stegen nedan.
 
 Programet går också att hittas på följande länk:
 
-   https://foodtell1.herokuapp.com/
+   https://foodtell.herokuapp.com/
    
 Github:
    https://github.com/belismau/Article-Login
